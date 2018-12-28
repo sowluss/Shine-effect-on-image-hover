@@ -33,5 +33,5 @@ body {
 }
 
 .box:hover::before {
-  left: 150px;
+  left: 250px;
 }
